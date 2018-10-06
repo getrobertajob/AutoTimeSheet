@@ -1,0 +1,9 @@
+C:\Users\Robert\Desktop\Scripts\C#\TimeSheet\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.config
+C:\Users\Robert\Desktop\Scripts\C#\TimeSheet\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe
+C:\Users\Robert\Desktop\Scripts\C#\TimeSheet\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.pdb
+C:\Users\Robert\Desktop\Scripts\C#\TimeSheet\SimpleWebBrowser\obj\Debug\TimeSheet.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Scripts\C#\TimeSheet\SimpleWebBrowser\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Robert\Desktop\Scripts\C#\TimeSheet\SimpleWebBrowser\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Robert\Desktop\Scripts\C#\TimeSheet\SimpleWebBrowser\obj\Debug\TimeSheet.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Scripts\C#\TimeSheet\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe
+C:\Users\Robert\Desktop\Scripts\C#\TimeSheet\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.pdb
